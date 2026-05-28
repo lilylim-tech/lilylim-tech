@@ -22,7 +22,7 @@
 
 * LinkedIn: linkedin.com/in/lily-lim-tech
 * Email: [lilyavrilia56@gmail.com](mailto:lilyavrilia56@gmail.com)
-## Hi there 👋
+
 
 <!--
 **lilylim-tech/lilylim-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
